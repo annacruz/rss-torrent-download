@@ -11,4 +11,3 @@ rtd = RssTorrentDownload()
 rtd.get_rss().process_list()
 
 print rtd.entries_list
-

@@ -8,6 +8,22 @@ RSS Torrent Download (RTD, for short) is a group of scripts aimed to fetch an RS
 
 All torrents can be saved on a specified folder, where your client can check for news files to download.
 
+Usage Instructions
+-------
+First install python-pip
+
+In Mac:
+
+`easy_install pip`
+
+In Linux/Ubuntu:
+
+`sudo apt-get install python-pip`
+
+After that, just use de requirements file to install dependencies
+
+`pip install -r requirements.txt`
+
 **IMPORTANT**
 -------------
 
